@@ -21,11 +21,11 @@ To install all the dependences of the project, run the following command:
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/Polling-api-system
+ - Link : https://github.com/191251149akashnandi/Polling_System_API.git
 
 
 #### Deployment Link:
- - Link : https://polling-api-system.vercel.app/
+ - Link : https://polling-system-api-w5jv.onrender.com
 
 
 
