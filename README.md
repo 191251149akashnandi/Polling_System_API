@@ -15,7 +15,7 @@ A polling system API is an application programming interface that allows develop
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/Polling-api-system.git
+    git clone https://github.com/191251149akashnandi/Polling_System_API.git
     npm install
     npm start
 
